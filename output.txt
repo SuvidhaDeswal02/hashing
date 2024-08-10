@@ -1,7 +1,7 @@
-5 coming this much times: 0
-1 coming this much times: 3
-4 coming this much times: 1
-3 coming this much times: 1
-2 coming this much times: 1
-10 coming this much times: 0
-7 coming this much times: 0
+5 occurs 0 times.
+1 occurs 3 times.
+4 occurs 1 times.
+3 occurs 1 times.
+2 occurs 1 times.
+10 occurs 0 times.
+7 occurs 0 times.
