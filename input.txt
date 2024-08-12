@@ -1,7 +1,2 @@
-umbrella
-5
-a
-e
-i
-o
-u
+array
+
