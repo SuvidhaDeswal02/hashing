@@ -7,14 +7,10 @@ int main(){
     int n;
     cin>>n;
     int arr[n];
+    unordered_map<int,int> map1;
     for(int i = 0; i < n; i++) 
     {
         cin >> arr[i];
-    }
-
-    unordered_map<int,int> map1;
-    for(int i=0;i<n;i++)
-    {
         map1[arr[i]] += 1;
     }
 
